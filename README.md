@@ -28,8 +28,8 @@ A small, lightweight notes application built with React and Vite. It provides a 
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
-cd Notes_App
+git clone https://github.com/CodeX047/Notes-App.git
+cd Notes-App
 # using npm
 npm install
 
